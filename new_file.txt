@@ -1,0 +1,3 @@
+Hii nano!!
+
+I am ekts. This is my first git project.
